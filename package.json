@@ -1,5 +1,5 @@
 {
-  "name": "2",
+  "name": "iterator",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexanderKomlev/advanced2.git"
+    "url": "git+https://github.com/AlexanderKomlev/iterator_hw.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlexanderKomlev/advanced2/issues"
+    "url": "https://github.com/AlexanderKomlev/iterator_hw/issues"
   },
-  "homepage": "https://github.com/AlexanderKomlev/advanced2#readme",
+  "homepage": "https://github.com/AlexanderKomlev/iterator_hw#readme",
   "description": "",
   "devDependencies": {
     "@babel/cli": "^7.24.8",
